@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56096090833",
+    "project_id": "erecette-87f4a",
+    "storage_bucket": "erecette-87f4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56096090833:android:efe333668962ad70caf3f0",
+        "android_client_info": {
+          "package_name": "ma.ismagi.ci2.e_recette"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdut7MT9mX4zzIu52l2EMukyaUk_p5NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
